@@ -19,10 +19,9 @@ elif operacao == "2":
     print("O resultado da operação é:", resultado)
 elif operacao == "3":
     resultado = float(numero_1) * float(numero_2)
+    print("O resultado da operação é:", resultado)
 elif operacao == "4":
-    resultado == float(numero_1)/ float(numero_2)
+    resultado = float(numero_1)/ float(numero_2)
+    print("O resultado da operação é:", resultado)
 else: 
     print("Operação inválida!")
-
-    print("O resultado da operação é:", resultado)
-
