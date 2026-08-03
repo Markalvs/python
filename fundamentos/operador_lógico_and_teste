@@ -1,0 +1,21 @@
+
+'''
+Verificar se uma pessoa pode entrar em um evento:
+idade >= 18 e possui ingresso.
+Verificar se um aluno foi aprovado:
+média >= 7 e frequência >= 75%.
+Verificar se um número está dentro de um intervalo:
+número >= 10 e número <= 20.
+'''
+
+#Verificar se uma pessoa pode entrar em um evento:
+#idade >= 18 e possui ingresso.
+
+idade = float(input("Qual a sua idade? "))
+possui_ingresso = input("Você possui o ingresso? ")
+
+if idade >= 18 and possui_ingresso == 'sim':
+    print("Entrada permitida:")
+
+else:
+    print ("Entrada negada!")
