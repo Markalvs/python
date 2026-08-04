@@ -15,7 +15,7 @@ idade = float(input("Qual a sua idade? "))
 possui_ingresso = input("Você possui o ingresso? ")
 
 if idade >= 18 and possui_ingresso == 'sim':
-    print("Entrada permitida:")
+    print("Entrada permitida")
 
 else:
     print ("Entrada negada!")
