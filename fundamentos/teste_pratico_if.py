@@ -1,4 +1,4 @@
-numero = 10
+numero = 2
  
 if numero > 1:
     if numero > 2:
