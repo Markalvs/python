@@ -4,7 +4,7 @@
 """
 
 try:
-    horario = float(input("Quais horas são? "))
+    horario = float(input("Quais horas são em número inteiro? "))
 
     if horario >= 0 and horario <=11:
         print ("Bom dia!")
@@ -12,6 +12,8 @@ try:
         print ("Boa tarde!")
     elif horario >= 18 and horario <=23:
         print ("Boa noite!")
+    else:
+        print("Isso não é uma hora")
 except ValueError:
     print ("Isso não é um horário válido")
 
