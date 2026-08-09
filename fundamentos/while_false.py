@@ -1,6 +1,6 @@
 
 
-
+# primeiro faz a ação e depois faz a ação
 contador = 0 #atribuindo o primeiro valor ao contador
 
 while contador < 10:
