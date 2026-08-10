@@ -5,10 +5,10 @@ Operadores de atribuição
 
 contador = 0
 
-while contador <= 10:
+while contador <= 1000:
     contador += 1
-    print(contador)
-    if contador == 6:
+    print(contador) #print deverá ficar antes do break
+    if contador == 980:
         
         break
 
