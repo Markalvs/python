@@ -25,7 +25,34 @@ while senha_salva!= senha_digitada:
 print ('Aquele laço acima pode ter repetições infinitas')
 
 """
+
+# iteravel te entrega um elemento por vez.
 texto = 'Python'
 
 for letra in texto:
     print(letra)
+
+#Quando você escreve:
+
+texto = 'Python'
+
+for letra in texto:
+    print(letra)
+
+"""
+
+leia como:
+
+"Para cada elemento dentro de texto, coloque esse elemento na variável letra."
+
+O Python percorre:
+
+'Python'
+   ↓
+P → letra
+y → letra
+t → letra
+h → letra
+o → letra
+n → letra
+"""
