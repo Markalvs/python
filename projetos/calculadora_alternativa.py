@@ -13,7 +13,7 @@ while True:
 
     try:
         num_1_float = float(numero_1)
-        num_2_float = float(numero_1)
+        num_2_float = float(numero_2)
         numero_valido = True
     except:
         numero_valido = None
@@ -32,7 +32,6 @@ while True:
         print('Operador inválido.')
         continue
 
-    ###
     if operador == '+':
         print(num_1_float + num_2_float)
     elif operador == '-':
