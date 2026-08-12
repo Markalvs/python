@@ -1,4 +1,5 @@
 #Calculadora com while
+#my fist projet
 
 while True:
     try:
