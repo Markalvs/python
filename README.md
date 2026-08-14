@@ -14,17 +14,17 @@ while True:
     conhecimento += 1
 ```
 
-## 🧪 Estrutura
+## Estrutura
 
-* 📚 **Fundamentos** → conceitos e exercícios básicos de Python
-* 🧠 **Exercícios** → prática e resolução de problemas
-* 🚀 **Projetos** → aplicações práticas
+* **Fundamentos** → conceitos e exercícios básicos de Python
+* **Exercícios** → prática e resolução de problemas
+* **Projetos** → aplicações práticas
 
-## 🔬 Experimentos
+## Experimentos
 
 Cada código aqui representa uma tentativa de transformar conhecimento em prática.
 
-## 📋 Regra
+## 📋 Regra de ouro
 Aqui só é permitido erros inéditos
 
 ---
