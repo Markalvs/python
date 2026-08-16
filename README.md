@@ -22,8 +22,7 @@ while True:
 
 ## 📋 Regra de ouro
 
-- Cada código aqui representa uma tentativa de transformar conhecimento em prática.
-- Aqui só é permitido erros inéditos
+- Aqui só são permitido erros inéditos
   
 ---
 ## Lista de progresso no curso:
