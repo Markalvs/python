@@ -20,7 +20,7 @@ while True:
 * **Exercícios** → prática e resolução de problemas
 * **Projetos** → aplicações práticas
 
-## 📋 Regra de ouro
+## Regra de ouro
 
 - Aqui só são permitido erros inéditos
   
