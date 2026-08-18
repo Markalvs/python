@@ -1,0 +1,65 @@
+[
+    {
+        "produto": "Notebook",
+        "vendedor": "Ana",
+        "categoria": "Eletrônicos",
+        "quantidade": 2,
+        "preco_unitario": 3500,
+        "data": "2026-08-01T00:00:00",
+        "faturamento": 7000
+    },
+    {
+        "produto": "Mouse",
+        "vendedor": "Carlos",
+        "categoria": "Periféricos",
+        "quantidade": 10,
+        "preco_unitario": 120,
+        "data": "2026-08-02T00:00:00",
+        "faturamento": 1200
+    },
+    {
+        "produto": "Teclado",
+        "vendedor": "Ana",
+        "categoria": "Periféricos",
+        "quantidade": 5,
+        "preco_unitario": 250,
+        "data": "2026-08-03T00:00:00",
+        "faturamento": 1250
+    },
+    {
+        "produto": "Monitor",
+        "vendedor": "Mariana",
+        "categoria": "Eletrônicos",
+        "quantidade": 3,
+        "preco_unitario": 1800,
+        "data": "2026-08-05T00:00:00",
+        "faturamento": 5400
+    },
+    {
+        "produto": "Notebook",
+        "vendedor": "Carlos",
+        "categoria": "Eletrônicos",
+        "quantidade": 1,
+        "preco_unitario": 3500,
+        "data": "2026-08-07T00:00:00",
+        "faturamento": 3500
+    },
+    {
+        "produto": "Headset",
+        "vendedor": "Mariana",
+        "categoria": "Periféricos",
+        "quantidade": 8,
+        "preco_unitario": 300,
+        "data": "2026-08-10T00:00:00",
+        "faturamento": 2400
+    },
+    {
+        "produto": "Monitor",
+        "vendedor": "Ana",
+        "categoria": "Eletrônicos",
+        "quantidade": 2,
+        "preco_unitario": 1800,
+        "data": "2026-08-12T00:00:00",
+        "faturamento": 3600
+    }
+]
